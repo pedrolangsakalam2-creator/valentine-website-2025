@@ -22,18 +22,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Baby i have some questions for you. Are you ready?",                                    // First interaction
+            text: "Baby kooo do you like meee?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "Then how much do you love me babyy?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "So babyy, will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yeheyyy! I love you so much babyyy! 🎉💝💖💝💓",
+        message: "Now baby, lets date tomm! simple coffee and food date? or anything you want. as a celebration also for your hardword on your examss! yeyy!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
